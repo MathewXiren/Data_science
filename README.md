@@ -7,3 +7,5 @@ Most of the materials are .ipynb assignment files
 ## Data Analysis with Python
 
 ## Database and SQL for Data Science
+
+## Data Visualization with Python
